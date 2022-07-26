@@ -18,3 +18,5 @@ Todo.findByIdAndRemove('62e004a1321ff655d9493ab0').then((todo) => {
     console.log(JSON.stringify(todo, undefined, 2));
 });
 
+
+
